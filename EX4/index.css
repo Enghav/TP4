@@ -105,3 +105,65 @@
     height: 54px;
     margin: 3px;
 }
+
+.c{
+    width:200px;
+    height:200px;
+    display: flex;
+    background-color: #ccc;
+}
+.case5{
+    width: 133px;
+    height: 198px;
+    
+}
+ .c1{
+    display: flex;
+    margin: 3px;
+}
+.c2{
+    background-color:orange;
+    width: 128px;
+    height: 60px;
+    float: left;
+ }
+ .r{
+    flex-direction: row;
+    margin-left: 3px;
+ }
+ .R1{
+    height: 64px;
+    width: 62px;
+    background-color: orange;
+ }
+ .R2{
+    height: 64px;
+    width: 62px;
+    background-color: orange;
+    margin-top: 3px;
+ }
+ .r2{
+    height: 131px;
+    width: 62px;
+    background-color: orange;
+    margin-left: 3px;
+ }
+.case6{
+    width: 64px;
+    height: 194px;
+    margin: 3px;
+    background-color: orange;
+    margin-left: 0px;
+}
+ .c3{
+    width: 54px;
+    height: 90px;
+    margin: 5px;
+    background-color: green;
+}
+.c4{
+    width: 54px;
+    height: 90px;
+    margin: 5px;
+    background-color: green;
+} 
