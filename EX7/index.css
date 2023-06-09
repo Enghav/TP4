@@ -1,0 +1,12 @@
+.wrapper{
+    width: 200px;
+    height: 200px;
+    background-color: #ccc;
+    
+}
+.flying-box{
+    translate: 40px 80px;
+    background-color: red;
+    width: 110px;
+    height: 30px;
+}

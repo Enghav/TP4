@@ -1,0 +1,44 @@
+.case{
+    width: 300px;
+    height: 200px;
+}
+.case1{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+.wapper{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(145, 142, 147);
+}
+.wapper2{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    position:absolute;
+    translate: -150px 50px;
+}
+.case2{
+    margin-left: 200px;
+    margin-top: 30px;
+    width: 300px;
+    height: 200px;
+}
+.case3{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+.wapper3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(145, 142, 147);
+}
+.wapper4{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    position:absolute;
+    translate: -50px 150px;
+}
