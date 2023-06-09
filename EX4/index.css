@@ -1,21 +1,107 @@
 .case1{
     width:200px;
     height: 200px;
-    background-color: cadetblue;
+    background-color:#ccc;
+    display: flex;
+    flex-direction: center;
 }
 .case2{
-    width: 188px;
-    height: 188px;
-    margin: 6px ;
-    background-color: aquamarine ;
+    width: 194px;
+    height: 194px;
+    margin: 4px;
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    /* background-color: aqua; */
 }
 .col{
-    background-color: rgb(152, 203, 101);
-    width: 70px;
-    height: 184px;
-    margin: 1px;
-    border: 2px solid rgba(255, 255, 255, 0);
+    background-color:orange;
+    width: 60px;
+    height: 190px;
+    margin: 2px;
+}
+.col2{
+    background-color: orange;
+    width: 60px;
+    height: 190px;
+    margin: 2px;
+    display: flex;
+    flex-direction: column;
+}
+.col3{
+    background-color: orange;
+    width: 60px;
+    height: 190px;
+    margin: 2px;
+}
+.row1{
+    background-color: rgb(57, 72, 170);
+    width: 54px;
+    height: 60px;
+    margin: 3px;
+}
+.row2{
+    background-color: rgb(57, 72, 170);
+    width: 54px;
+    height: 60px;
+    margin: 3px;
+}
+.row3{
+    background-color: rgb(57, 72, 170);
+    width: 54px;
+    height: 60px;
+    margin: 3px;
+}
+
+.case3{
+    width:200px;
+    height: 200px;
+    background-color:#ccc;
+    display: flex;
+    flex-direction: center;
+}
+.case4{
+    width: 194px;
+    height: 194px;
+    margin: 4px;
+    display: flex;
+    flex-direction: column;
+    /* background-color: aqua; */
+}
+.col4{
+    background-color:orange;
+    width: 190px;
+    height: 60px;
+    margin: 2px;
+}
+.col5{
+    background-color:orange;
+    width: 190px;
+    height: 60px;
+    margin: 2px;
+    display: flex;
+    flex-direction: row;
+}
+.col6{
+    background-color:orange;
+    width: 190px;
+    height: 60px;
+    margin: 2px;
+}
+.row4{
+    background-color: rgb(57, 72, 170);
+    width: 60px;
+    height: 54px;
+    margin: 3px;
+}
+.row5{
+    background-color: rgb(57, 72, 170);
+    width: 60px;
+    height: 54px;
+    margin: 3px;
+}
+.row6{
+    background-color: rgb(57, 72, 170);
+    width: 60px;
+    height: 54px;
+    margin: 3px;
 }
