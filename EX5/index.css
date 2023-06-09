@@ -1,133 +1,133 @@
-.case1{
-    width:200px;
-    height: 200px;
-    background-color:#ccc;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
+.case1 {
+  width: 200px;
+  height: 200px;
+  background-color: #ccc;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
-.col1{
-    background-color:orange;
-    width: 190px;
-    height: 60px;
-    margin: 2px;
-    display: flex;
+.col1 {
+  background-color: orange;
+  width: 190px;
+  height: 60px;
+  margin: 2px;
+  display: flex;
 }
-.row1{
-    background-color: rgb(57, 72, 170);
-    width: 60px;
-    height: 54px;
-    margin: 3px;
+.row1 {
+  background-color: rgb(57, 72, 170);
+  width: 60px;
+  height: 54px;
+  margin: 3px;
 }
-.row2{
-    background-color: rgb(57, 72, 170);
-    width: 60px;
-    height: 54px;
-    margin: 3px;
+.row2 {
+  background-color: rgb(57, 72, 170);
+  width: 60px;
+  height: 54px;
+  margin: 3px;
 }
-.row3{
-    background-color: rgb(57, 72, 170);
-    width: 60px;
-    height: 54px;
-    margin: 3px;
-}
-
-.case2{
-    width:200px;
-    height: 200px;
-    background-color:#ccc;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-.row4{
-    background-color:orange;
-    width: 60px;
-    height: 194px;
-    margin: 2px;
-}
-.col2{
-    background-color: rgb(57, 72, 170);
-    width: 54px;
-    height: 60px;
-    margin: 3px;
-}
-.col3{
-    background-color: rgb(57, 72, 170);
-    width: 54px;
-    height: 60px;
-    margin: 3px;
-}
-.col4{
-    background-color: rgb(57, 72, 170);
-    width: 54px;
-    height: 60px;
-    margin: 3px;
-}  
-
-.case3{
-    width:200px;
-    height: 200px;
-    background-color:#ccc;
-    display: flex;
-    flex-direction: row;
-    align-items: end;
-}
-.col5{
-    background-color:orange;
-    width: 190px;
-    height: 60px;
-    margin: 2px;
-    display: flex;
-}
-.row5{
-    background-color: rgb(57, 72, 170);
-    width: 60px;
-    height: 54px;
-    margin: 3px;
-}
-.row6{
-    background-color: rgb(57, 72, 170);
-    width: 60px;
-    height: 54px;
-    margin: 3px;
-}
-.row7{
-    background-color: rgb(57, 72, 170);
-    width: 60px;
-    height: 54px;
-    margin: 3px;
+.row3 {
+  background-color: rgb(57, 72, 170);
+  width: 60px;
+  height: 54px;
+  margin: 3px;
 }
 
-.case4{
-    width:200px;
-    height: 200px;
-    background-color:#ccc;
-    display: flex;
-    flex-direction: column;
-    align-items: end;
+.case2 {
+  width: 200px;
+  height: 200px;
+  background-color: #ccc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-.row8{
-    background-color:orange;
-    width: 60px;
-    height: 194px;
-    margin: 2px;
+.row4 {
+  background-color: orange;
+  width: 60px;
+  height: 194px;
+  margin: 2px;
 }
-.col6{
-    background-color: rgb(57, 72, 170);
-    width: 54px;
-    height: 60px;
-    margin: 3px;
+.col2 {
+  background-color: rgb(57, 72, 170);
+  width: 54px;
+  height: 60px;
+  margin: 3px;
 }
-.col7{
-    background-color: rgb(57, 72, 170);
-    width: 54px;
-    height: 60px;
-    margin: 3px;
+.col3 {
+  background-color: rgb(57, 72, 170);
+  width: 54px;
+  height: 60px;
+  margin: 3px;
 }
-.col8{
-    background-color: rgb(57, 72, 170);
-    width: 54px;
-    height: 60px;
-    margin: 3px;
-}  
+.col4 {
+  background-color: rgb(57, 72, 170);
+  width: 54px;
+  height: 60px;
+  margin: 3px;
+}
+
+.case3 {
+  width: 200px;
+  height: 200px;
+  background-color: #ccc;
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+}
+.col5 {
+  background-color: orange;
+  width: 190px;
+  height: 60px;
+  margin: 2px;
+  display: flex;
+}
+.row5 {
+  background-color: rgb(57, 72, 170);
+  width: 60px;
+  height: 54px;
+  margin: 3px;
+}
+.row6 {
+  background-color: rgb(57, 72, 170);
+  width: 60px;
+  height: 54px;
+  margin: 3px;
+}
+.row7 {
+  background-color: rgb(57, 72, 170);
+  width: 60px;
+  height: 54px;
+  margin: 3px;
+}
+
+.case4 {
+  width: 200px;
+  height: 200px;
+  background-color: #ccc;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+.row8 {
+  background-color: orange;
+  width: 60px;
+  height: 194px;
+  margin: 2px;
+}
+.col6 {
+  background-color: rgb(57, 72, 170);
+  width: 54px;
+  height: 60px;
+  margin: 3px;
+}
+.col7 {
+  background-color: rgb(57, 72, 170);
+  width: 54px;
+  height: 60px;
+  margin: 3px;
+}
+.col8 {
+  background-color: rgb(57, 72, 170);
+  width: 54px;
+  height: 60px;
+  margin: 3px;
+}
